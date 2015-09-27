@@ -1,1 +1,2 @@
 This is my first file working with git!
+Now I am in the branch.
